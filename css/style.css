@@ -1,0 +1,18 @@
+
+html, body, .container-fluid, .row{
+  height: 100%;
+  width: 100%;
+}
+.quote-box{
+  float: none;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: white;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.pull-right{
+  float: right;
+}
